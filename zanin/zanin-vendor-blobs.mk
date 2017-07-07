@@ -308,8 +308,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/libremotedesktopservice.so:system/lib/libremotedesktopservice.so \
 	vendor/samsung/zanin/proprietary/lib/libril.so:system/lib/libril.so \
 	vendor/samsung/zanin/proprietary/lib/librpc.so:system/lib/librpc.so \
-	vendor/samsung/zanin/proprietary/lib/libRS.so:system/lib/libRS.so \
-	vendor/samsung/zanin/proprietary/lib/librs_jni.so:system/lib/librs_jni.so \
 	vendor/samsung/zanin/proprietary/lib/librtp_jni.so:system/lib/librtp_jni.so \
 	vendor/samsung/zanin/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
 	vendor/samsung/zanin/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
