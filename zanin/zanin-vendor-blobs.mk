@@ -369,7 +369,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/libWVStreamControlAPI_L3.so:system/lib/libWVStreamControlAPI_L3.so \
 	vendor/samsung/zanin/proprietary/lib/libXIVCoder.so:system/lib/libXIVCoder.so \
 	vendor/samsung/zanin/proprietary/lib/libXt9core.so:system/lib/libXt9core.so \
-	vendor/samsung/zanin/proprietary/lib/modules/dhd.ko:system/lib/modules/dhd.ko \
 	vendor/samsung/zanin/proprietary/lib/modules/j4fs.ko:system/lib/modules/j4fs.ko \
 	vendor/samsung/zanin/proprietary/lib/modules/VoiceSolution.ko:system/lib/modules/VoiceSolution.ko \
 	vendor/samsung/zanin/proprietary/lib/soundfx/libaudiopreprocessing.so:system/lib/soundfx/libaudiopreprocessing.so \
