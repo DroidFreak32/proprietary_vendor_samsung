@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/bin/gps.cer:system/bin/gps.cer \
 	vendor/samsung/zanin/proprietary/bin/gpslogd:system/bin/gpslogd \
 	vendor/samsung/zanin/proprietary/bin/hd:system/bin/hd \
-	vendor/samsung/zanin/proprietary/bin/hostapd:system/bin/hostapd \
 	vendor/samsung/zanin/proprietary/bin/id:system/bin/id \
 	vendor/samsung/zanin/proprietary/bin/ifconfig:system/bin/ifconfig \
 	vendor/samsung/zanin/proprietary/bin/iftop:system/bin/iftop \
@@ -53,7 +52,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/bin/ls:system/bin/ls \
 	vendor/samsung/zanin/proprietary/bin/lsmod:system/bin/lsmod \
 	vendor/samsung/zanin/proprietary/bin/lsof:system/bin/lsof \
-	vendor/samsung/zanin/proprietary/bin/macloader:system/bin/macloader \
 	vendor/samsung/zanin/proprietary/bin/md5:system/bin/md5 \
 	vendor/samsung/zanin/proprietary/bin/mfgloader:system/bin/mfgloader \
 	vendor/samsung/zanin/proprietary/bin/mkdir:system/bin/mkdir \
@@ -98,7 +96,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/bin/watchprops:system/bin/watchprops \
 	vendor/samsung/zanin/proprietary/bin/wipe:system/bin/wipe \
 	vendor/samsung/zanin/proprietary/bin/wlandutservice:system/bin/wlandutservice \
-	vendor/samsung/zanin/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
 	vendor/samsung/zanin/proprietary/etc/asound.conf:system/etc/asound.conf \
 	vendor/samsung/zanin/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
 	vendor/samsung/zanin/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
@@ -148,7 +145,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/etc/wifi/bcmdhd_sta.bin_b2:system/etc/wifi/bcmdhd_sta.bin_b2 \
 	vendor/samsung/zanin/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
 	vendor/samsung/zanin/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
-	vendor/samsung/zanin/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
 	vendor/samsung/zanin/proprietary/lib/bluez-plugin/audio.so:system/lib/bluez-plugin/audio.so \
 	vendor/samsung/zanin/proprietary/lib/bluez-plugin/bluetooth-health.so:system/lib/bluez-plugin/bluetooth-health.so \
 	vendor/samsung/zanin/proprietary/lib/bluez-plugin/input.so:system/lib/bluez-plugin/input.so \
