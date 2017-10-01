@@ -97,8 +97,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/bin/wipe:system/bin/wipe \
 	vendor/samsung/zanin/proprietary/bin/wlandutservice:system/bin/wlandutservice \
 	vendor/samsung/zanin/proprietary/etc/asound.conf:system/etc/asound.conf \
-	vendor/samsung/zanin/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
-	vendor/samsung/zanin/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
 	vendor/samsung/zanin/proprietary/etc/atx_rndis.conf:system/etc/atx_rndis.conf \
 	vendor/samsung/zanin/proprietary/etc/audio/LVVEFS_Rx_Configuration.txt:system/etc/audio/LVVEFS_Rx_Configuration.txt \
 	vendor/samsung/zanin/proprietary/etc/audio/LVVEFS_Tx_Configuration.txt:system/etc/audio/LVVEFS_Tx_Configuration.txt \
@@ -122,6 +120,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/etc/audio/Tx_ControlParams_SPEAKER_WIDEBAND.txt:system/etc/audio/Tx_ControlParams_SPEAKER_WIDEBAND.txt \
 	vendor/samsung/zanin/proprietary/etc/audio/Tx_ControlParams_WIRED_HEADPHONE_WIDEBAND.txt:system/etc/audio/Tx_ControlParams_WIRED_HEADPHONE_WIDEBAND.txt \
 	vendor/samsung/zanin/proprietary/etc/audio/Tx_ControlParams_WIRED_HEADSET_WIDEBAND.txt:system/etc/audio/Tx_ControlParams_WIRED_HEADSET_WIDEBAND.txt \
+	vendor/samsung/zanin/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/LVVEFS_Rx_Configuration.txt:system/etc/audio_VR/LVVEFS_Rx_Configuration.txt \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/LVVEFS_Tx_Configuration.txt:system/etc/audio_VR/LVVEFS_Tx_Configuration.txt \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/Rx_ControlParams_VR_BLUETOOTH_HEADSET.txt:system/etc/audio_VR/Rx_ControlParams_VR_BLUETOOTH_HEADSET.txt \
@@ -134,10 +133,11 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/Tx_ControlParams_VR_SPEAKER_WIDEBAND.txt:system/etc/audio_VR/Tx_ControlParams_VR_SPEAKER_WIDEBAND.txt \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/Tx_ControlParams_VR_WIRED_HEADPHONE_WIDEBAND.txt:system/etc/audio_VR/Tx_ControlParams_VR_WIRED_HEADPHONE_WIDEBAND.txt \
 	vendor/samsung/zanin/proprietary/etc/audio_VR/Tx_ControlParams_VR_WIRED_HEADSET_WIDEBAND.txt:system/etc/audio_VR/Tx_ControlParams_VR_WIRED_HEADSET_WIDEBAND.txt \
+	vendor/samsung/zanin/proprietary/etc/DiamondVoice.txt:system/etc/DiamondVoice.txt \
 	vendor/samsung/zanin/proprietary/etc/gps.conf:system/etc/gps.conf \
 	vendor/samsung/zanin/proprietary/etc/gps/glconfig.xml:system/etc/gps/glconfig.xml \
-	vendor/samsung/zanin/proprietary/etc/usb_portd.conf:system/etc/usb_portd.conf \
 	vendor/samsung/zanin/proprietary/etc/srm.bin:system/etc/srm.bin \
+	vendor/samsung/zanin/proprietary/etc/usb_portd.conf:system/etc/usb_portd.conf \
 	vendor/samsung/zanin/proprietary/etc/Volume.db:system/etc/Volume.db \
 	vendor/samsung/zanin/proprietary/etc/wifi/bcmdhd_apsta.bin_b2:system/etc/wifi/bcmdhd_apsta.bin_b2 \
 	vendor/samsung/zanin/proprietary/etc/wifi/bcmdhd_mfg.bin_b2:system/etc/wifi/bcmdhd_mfg.bin_b2 \
