@@ -161,23 +161,17 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/hw/alsa.default.so:system/lib/hw/alsa.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/audio.a2dp.default.so:system/lib/hw/audio.a2dp.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/audio.primary.default.so:system/lib/hw/audio.primary.default.so \
-	vendor/samsung/zanin/proprietary/lib/hw/audio.primary.goldfish.so:system/lib/hw/audio.primary.goldfish.so \
 	vendor/samsung/zanin/proprietary/lib/hw/audio.primary.rhea.so:system/lib/hw/audio.primary.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/audio_policy.default.so:system/lib/hw/audio_policy.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/audio_policy.rhea.so:system/lib/hw/audio_policy.rhea.so \
-	vendor/samsung/zanin/proprietary/lib/hw/camera.goldfish.so:system/lib/hw/camera.goldfish.so \
 	vendor/samsung/zanin/proprietary/lib/hw/camera.rhea.so:system/lib/hw/camera.rhea.so \
-	vendor/samsung/zanin/proprietary/lib/hw/gps.goldfish.so:system/lib/hw/gps.goldfish.so \
 	vendor/samsung/zanin/proprietary/lib/hw/gps.rhea.so:system/lib/hw/gps.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/gralloc.rhea.so:system/lib/hw/gralloc.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/hwcomposer.rhea.so:system/lib/hw/hwcomposer.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
-	vendor/samsung/zanin/proprietary/lib/hw/lights.goldfish.so:system/lib/hw/lights.goldfish.so \
 	vendor/samsung/zanin/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
-	vendor/samsung/zanin/proprietary/lib/hw/power.goldfish.so:system/lib/hw/power.goldfish.so \
-	vendor/samsung/zanin/proprietary/lib/hw/sensors.goldfish.so:system/lib/hw/sensors.goldfish.so \
 	vendor/samsung/zanin/proprietary/lib/hw/sensors.rhea.so:system/lib/hw/sensors.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/lib_ARC_Omx_Plugin.so:system/lib/lib_ARC_Omx_Plugin.so \
 	vendor/samsung/zanin/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
