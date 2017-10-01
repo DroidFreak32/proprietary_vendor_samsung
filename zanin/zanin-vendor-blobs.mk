@@ -174,7 +174,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/hw/hwcomposer.rhea.so:system/lib/hw/hwcomposer.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/lights.goldfish.so:system/lib/hw/lights.goldfish.so \
-	vendor/samsung/zanin/proprietary/lib/hw/lights.rhea.so:system/lib/hw/lights.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/power.goldfish.so:system/lib/hw/power.goldfish.so \
