@@ -137,6 +137,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/etc/gps.conf:system/etc/gps.conf \
 	vendor/samsung/zanin/proprietary/etc/gps/glconfig.xml:system/etc/gps/glconfig.xml \
 	vendor/samsung/zanin/proprietary/etc/media_codecs.xml:system/etc/media_codecs.xml \
+	vendor/samsung/zanin/proprietary/etc/media_profiles.xml:system/etc/media_profiles.xml \
 	vendor/samsung/zanin/proprietary/etc/srm.bin:system/etc/srm.bin \
 	vendor/samsung/zanin/proprietary/etc/usb_portd.conf:system/etc/usb_portd.conf \
 	vendor/samsung/zanin/proprietary/etc/Volume.db:system/etc/Volume.db \
