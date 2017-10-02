@@ -169,7 +169,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/gralloc.rhea.so:system/lib/hw/gralloc.rhea.so \
 	vendor/samsung/zanin/proprietary/lib/hw/hwcomposer.rhea.so:system/lib/hw/hwcomposer.rhea.so \
-	vendor/samsung/zanin/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/power.default.so:system/lib/hw/power.default.so \
 	vendor/samsung/zanin/proprietary/lib/hw/sensors.rhea.so:system/lib/hw/sensors.rhea.so \
@@ -322,7 +321,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/zanin/proprietary/lib/libsoc.so:system/lib/libsoc.so \
 	vendor/samsung/zanin/proprietary/lib/libsoundalive.so:system/lib/libsoundalive.so \
 	vendor/samsung/zanin/proprietary/lib/libSoundAlive_VSP_ver312a.so:system/lib/libSoundAlive_VSP_ver312a.so \
-	vendor/samsung/zanin/proprietary/lib/libsoundpool.so:system/lib/libsoundpool.so \
 	vendor/samsung/zanin/proprietary/lib/libsoundspeed.so:system/lib/libsoundspeed.so \
 	vendor/samsung/zanin/proprietary/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
 	vendor/samsung/zanin/proprietary/lib/libstagefright_strm_snooper.so:system/lib/libstagefright_strm_snooper.so \
